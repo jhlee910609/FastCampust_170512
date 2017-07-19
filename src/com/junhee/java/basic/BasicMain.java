@@ -3,6 +3,7 @@ package com.junhee.java.basic;
 import java.util.ArrayList;
 import java.util.Scanner;
 import javax.activation.DataSource;
+// 패키지 임포트 
 import com.junhee.java.bbs.Bbs;
 
 public class BasicMain {
